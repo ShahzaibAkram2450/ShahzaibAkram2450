@@ -5,8 +5,7 @@ I am a Software Engineer based in Rawalpindi, Pakistan.
 ---
 
 ## 🌟 Featured Portfolio Project
-**Check out my latest deployed application:**
-### [👉 View My Live Web Application Here!](https://shahzaib-dev-44142235680.europe-west2.run.app/)
+### [👉 View My Portfolio Here!](https://shahzaib-dev-44142235680.europe-west2.run.app/)
 
 ---
 
