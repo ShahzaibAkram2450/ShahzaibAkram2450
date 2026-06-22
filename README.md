@@ -10,9 +10,11 @@ I am a Software Engineer based in Rawalpindi, Pakistan.
 ---
 
 ## 🎓 About Me
-* I am currently pursuing a Bachelor of Science in Software Engineering at FAST National University of Computer and Emerging Sciences.
-* My degree program spans from August 2022 to June 2026.
-* Prior to this, I completed my Pre-Engineering coursework at Punjab College of Information Technology from 2020 to 2022.
+- Software Engineering graduate from **FAST National University of Computer and Emerging Sciences (FAST-NUCES)**, graduating in **June 2026**.
+- Experienced in **Full-Stack Development, Cloud Computing, DevOps, and AI-powered applications** through internships, academic projects, and personal initiatives.
+- Built and deployed projects using technologies such as **React, Next.js, Node.js, AWS, Docker, Kubernetes, MongoDB, and PostgreSQL**.
+- Final Year Project focused on a **BVLOS Drone-as-a-Service platform** featuring real-time telemetry, cloud infrastructure, and AI-powered solar defect detection.
+- Completed **Pre-Engineering** from **Punjab College of Information Technology** (2020–2022).
 
 ## 🛠️ Technical Skills
 * **Programming Languages:** JavaScript, TypeScript, Python, C#, SQL.
